@@ -1,6 +1,6 @@
 # Urban greenspace drivers of bird species richness differ between migratory and resident species across the full-annual cycle
 
-This repository contains all code and derived data necessary to reproduce the analyses, figures, and tables for the manuscript published in Ornithological Applications:
+This repository contains all code and derived data necessary to reproduce the analyses, figures, and tables for the paper published in Ornithological Applications:
 
 > **“Urban greenspace drivers of bird species richness differ between migratory and resident species across the full-annual cycle.”**
 
